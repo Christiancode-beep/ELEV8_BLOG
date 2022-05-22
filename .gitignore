@@ -1,0 +1,3 @@
+BLOGSITE_VENV
+*.sqlite3
+__pycache__
